@@ -21,5 +21,6 @@ guerreiro atacou usando espada
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/alexandreanunciato/escrevendo-classes-jogo-js
+https://github.com/alexandreanunciato/escrevendo-classes-jogo-js
+
 
