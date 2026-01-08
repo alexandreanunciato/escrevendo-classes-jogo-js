@@ -13,3 +13,7 @@ Criar uma classe genérica que represente um herói de uma aventura, contendo pr
 - JavaScript básico
 
 ## ▶️ Exemplo de saída
+
+mago atacou usando magia
+
+guerreiro atacou usando espada
