@@ -17,10 +17,11 @@ mago atacou usando magia
 
 guerreiro atacou usando espada
 
-## ▶️ Como executar
+## 📂 Como executar
 
 1. Clone o repositório:
 ```bash
 https://github.com/alexandreanunciato/escrevendo-classes-jogo-js
+
 
 
