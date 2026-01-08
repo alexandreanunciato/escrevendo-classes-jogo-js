@@ -1,6 +1,6 @@
 # Escrevendo as Classes de um Jogo
 
-Projeto desenvolvido em **JavaScript** como parte do desafio final do bootcamp, com foco em lógica de programação e orientação a objetos.
+Projeto em **JavaScript** para praticar lógica de programação e orientação a objetos, criando uma classe que representa um herói com propriedades básicas e um método de ataque que varia conforme o tipo do herói.
 
 ## 📌 Objetivo
 Criar uma classe genérica que represente um herói de uma aventura, contendo propriedades como nome, idade e tipo, além de um método de ataque que varia conforme o tipo do herói.
@@ -17,3 +17,4 @@ Criar uma classe genérica que represente um herói de uma aventura, contendo pr
 mago atacou usando magia
 
 guerreiro atacou usando espada
+
