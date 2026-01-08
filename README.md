@@ -13,8 +13,13 @@ Criar uma classe genérica que represente um herói de uma aventura, contendo pr
 - JavaScript básico
 
 ## ▶️ Exemplo de saída
-
 mago atacou usando magia
 
 guerreiro atacou usando espada
+
+## ▶️ Como executar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/alexandreanunciato/escrevendo-classes-jogo-js
 
